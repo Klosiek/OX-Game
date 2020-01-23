@@ -1,0 +1,354 @@
+2020-01-23 17:22:53.335 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:25:15.162 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:25:48.518 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:25:58.499 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:31:31.340 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:32:10.658 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:32:26.032 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 17:32:26.260 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 17:33:28.502 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:34:08.106 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:38:36.717 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:39:12.492 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:39:30.302 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:41:46.236 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:42:07.592 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:42:25.774 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:42:39.603 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:43:16.076 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:43:32.652 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:44:24.800 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:48:08.423 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:48:19.892 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:48:30.887 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:54:30.631 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 17:58:43.471 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:14:38.303 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:16:42.682 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:17:01.557 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:17:18.359 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:17:21.247 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:17:21.544 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:17:21.911 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:17:22.130 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:17:22.877 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:17:23.865 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:17:24.109 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:17:24.430 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:17:53.866 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:17:57.091 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:17:57.397 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:17:58.055 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:17:58.581 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:17:59.099 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:31:43.781 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:31:44.613 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:31:44.927 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:31:45.413 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:31:45.773 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:32:41.802 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:32:46.297 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:32:46.634 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:32:47.355 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:32:48.093 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:32:48.971 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:32:49.370 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:32:51.403 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:32:52.359 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:32:52.807 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:33:09.181 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:33:15.319 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:33:15.601 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:33:15.923 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:33:16.230 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:33:16.605 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:33:27.318 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:33:39.673 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:34:08.272 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:34:19.893 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:34:20.208 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:34:20.457 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:34:20.709 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:34:21.016 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:34:32.773 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:34:36.396 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:34:36.653 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:34:37.046 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:34:37.290 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:34:37.572 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:35:06.528 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:37:18.000 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:37:22.461 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:37:22.853 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:37:23.135 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:37:23.395 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:37:23.763 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:37:41.755 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:37:42.287 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:37:45.503 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:37:45.769 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:37:46.013 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:37:46.219 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:39:58.869 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:40:03.028 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:40:03.827 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:40:04.493 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:40:05.051 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:40:06.869 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:40:07.669 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:40:38.904 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:40:43.463 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:40:43.729 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:40:44.024 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:40:44.255 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:40:44.725 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:41:46.319 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:41:49.777 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:41:50.051 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:41:50.459 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:41:50.835 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:41:51.181 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:42:19.393 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:42:19.777 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:42:20.217 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:42:20.515 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:42:21.181 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:44:34.324 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:44:37.280 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:44:37.838 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:44:37.986 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:44:38.299 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:44:38.769 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:44:39.099 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:44:39.953 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:44:40.463 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:22.705 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:46:25.757 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:26.009 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:26.329 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:26.590 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:26.815 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:26.995 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:27.255 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:27.465 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:27.655 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:33.769 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:34.888 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:35.173 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:35.634 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:46:35.963 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:48:10.656 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Hej logger
+2020-01-23 20:48:14.210 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:48:14.444 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:48:14.672 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:48:14.961 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 20:48:15.235 [JavaFX Application Thread] INFO  lab.lab.engine.EngineImpl.getWinner(26) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:31.057 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Uruchamianie programu ...
+2020-01-23 22:55:31.059 [JavaFX Application Thread] INFO  lab.app.Main.start(18) - Wersja aplikacji 1.0
+2020-01-23 22:55:31.061 [JavaFX Application Thread] WARN  lab.app.Main.start(19) - Uaktualnij aplikację. Najnowsza dostępna wersja: 2.0
+2020-01-23 22:55:31.347 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$initialize$2(138) - Pobieranie danych...
+2020-01-23 22:55:34.218 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:55:34.870 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:34.870 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:34.870 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:35.136 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:35.136 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:35.136 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:35.369 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:35.370 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:35.370 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:35.761 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:35.762 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:35.762 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:36.043 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:36.044 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:55:36.044 [JavaFX Application Thread] INFO  lab.engine.Controller.checkIfGameIsFinished(106) - Gra rozegrana. Zwycięzca: Gracz O
+2020-01-23 22:55:36.045 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$0(108) - Zapisywanie danych...
+2020-01-23 22:55:36.045 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:36.070 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:38.907 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$7(183) - Pobieranie danych...
+2020-01-23 22:55:41.406 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:55:41.962 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:41.962 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:41.962 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:42.235 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:42.237 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:42.237 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:42.432 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:42.432 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:42.432 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:42.652 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:42.652 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:42.652 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:42.856 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:42.857 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:55:42.857 [JavaFX Application Thread] INFO  lab.engine.Controller.checkIfGameIsFinished(106) - Gra rozegrana. Zwycięzca: Gracz X
+2020-01-23 22:55:42.857 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:42.857 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$0(108) - Zapisywanie danych...
+2020-01-23 22:55:42.858 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:44.408 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:55:44.923 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:44.924 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:44.924 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:45.269 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:45.270 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:45.270 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:45.503 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:45.504 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:45.504 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:45.732 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:45.733 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:45.733 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:45.952 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:45.953 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:55:45.953 [JavaFX Application Thread] INFO  lab.engine.Controller.checkIfGameIsFinished(106) - Gra rozegrana. Zwycięzca: Gracz O
+2020-01-23 22:55:45.953 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$0(108) - Zapisywanie danych...
+2020-01-23 22:55:45.953 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:45.954 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:56.250 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:55:57.238 [pool-4-thread-1] INFO  lab.engine.Controller.lambda$null$7(183) - Pobieranie danych...
+2020-01-23 22:55:58.382 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:58.382 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:58.382 [pool-4-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:58.970 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:58.970 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:58.970 [pool-4-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:59.246 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:59.247 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:59.247 [pool-4-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:59.574 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:59.574 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:59.574 [pool-4-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:55:59.818 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:55:59.818 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:55:59.818 [JavaFX Application Thread] INFO  lab.engine.Controller.checkIfGameIsFinished(106) - Gra rozegrana. Zwycięzca: Gracz X
+2020-01-23 22:55:59.819 [pool-4-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$0(108) - Zapisywanie danych...
+2020-01-23 22:55:59.819 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:55:59.819 [pool-4-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:56:02.873 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:56:03.956 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:56:03.956 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:56:03.957 [pool-4-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:56:04.928 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:56:04.928 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:56:04.928 [pool-4-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:56:06.519 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:56:06.521 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(163) - Ruch wykonany!
+2020-01-23 22:56:06.521 [pool-4-thread-1] INFO  lab.engine.Controller.lambda$null$4(165) - Pobieranie danych...
+2020-01-23 22:57:06.598 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Uruchamianie programu ...
+2020-01-23 22:57:06.601 [JavaFX Application Thread] INFO  lab.app.Main.start(18) - Wersja aplikacji 1.0
+2020-01-23 22:57:06.602 [JavaFX Application Thread] WARN  lab.app.Main.start(19) - Uaktualnij aplikację. Najnowsza dostępna wersja: 2.0
+2020-01-23 22:57:06.803 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$initialize$2(138) - Pobieranie danych...
+2020-01-23 22:57:08.804 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$null$8(198) - Pobieranie danych...
+2020-01-23 22:57:08.804 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:57:10.569 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:57:11.194 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$null$8(198) - Pobieranie danych...
+2020-01-23 22:57:11.194 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:57:12.034 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:57:12.434 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$null$8(198) - Pobieranie danych...
+2020-01-23 22:57:12.434 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:57:12.872 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:57:13.194 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$null$8(198) - Pobieranie danych...
+2020-01-23 22:57:13.194 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:57:13.546 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:57:13.884 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:57:13.884 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$null$8(198) - Pobieranie danych...
+2020-01-23 22:57:14.244 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:57:14.863 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$5(174) - Pobieranie danych...
+2020-01-23 22:57:15.756 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$8(198) - Pobieranie danych...
+2020-01-23 22:57:15.756 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:57:16.650 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:57:17.002 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:57:17.002 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$8(198) - Pobieranie danych...
+2020-01-23 22:57:17.480 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:57:17.786 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$8(198) - Pobieranie danych...
+2020-01-23 22:57:17.786 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:57:18.334 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:57:18.334 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$3(163) - Ruch wykonany!
+2020-01-23 22:57:18.632 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:57:18.632 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$3(163) - Ruch wykonany!
+2020-01-23 22:57:18.868 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:57:18.868 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$3(163) - Ruch wykonany!
+2020-01-23 22:57:19.110 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:57:19.110 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$3(163) - Ruch wykonany!
+2020-01-23 22:57:19.494 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:57:19.494 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:57:19.494 [JavaFX Application Thread] INFO  lab.engine.Controller.checkIfGameIsFinished(106) - Gra rozegrana. Zwycięzca: Gracz O
+2020-01-23 22:57:19.495 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$3(163) - Ruch wykonany!
+2020-01-23 22:57:19.495 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$0(108) - Zapisywanie danych...
+2020-01-23 22:57:20.349 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$8(198) - Pobieranie danych...
+2020-01-23 22:57:20.349 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:57:21.228 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(124) - Gra zakonczona!
+2020-01-23 22:57:22.010 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$8(198) - Pobieranie danych...
+2020-01-23 22:57:22.010 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:57:23.839 [pool-4-thread-1] INFO  lab.engine.Controller.lambda$null$5(174) - Pobieranie danych...
+2020-01-23 22:57:55.494 [JavaFX Application Thread] INFO  lab.app.Main.start(17) - Uruchamianie programu ...
+2020-01-23 22:57:55.496 [JavaFX Application Thread] INFO  lab.app.Main.start(18) - Wersja aplikacji 1.0
+2020-01-23 22:57:55.497 [JavaFX Application Thread] WARN  lab.app.Main.start(19) - Uaktualnij aplikację. Najnowsza dostępna wersja: 2.0
+2020-01-23 22:57:55.691 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$initialize$4(147) - Pobieranie danych...
+2020-01-23 22:57:58.474 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:57:58.929 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:57:58.929 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:57:59.267 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:57:59.267 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:57:59.507 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:57:59.508 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:57:59.822 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:57:59.822 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:00.189 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:00.190 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(133) - Gra zakonczona!
+2020-01-23 22:58:00.190 [JavaFX Application Thread] INFO  lab.engine.Controller.checkIfGameIsFinished(106) - Gra rozegrana. Zwycięzca: Gracz O
+2020-01-23 22:58:00.191 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$0(108) - Zapisywanie danych...
+2020-01-23 22:58:00.191 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:00.215 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$2(112) - Pobieranie danych...
+2020-01-23 22:58:02.306 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:58:03.012 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:03.012 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:03.372 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:03.372 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:03.607 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:03.608 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:03.944 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:03.944 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:04.234 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:04.234 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(133) - Gra zakonczona!
+2020-01-23 22:58:04.234 [JavaFX Application Thread] INFO  lab.engine.Controller.checkIfGameIsFinished(106) - Gra rozegrana. Zwycięzca: Gracz X
+2020-01-23 22:58:04.234 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:04.234 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$0(108) - Zapisywanie danych...
+2020-01-23 22:58:04.235 [pool-2-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$2(112) - Pobieranie danych...
+2020-01-23 22:58:12.290 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$null$7(183) - Pobieranie danych...
+2020-01-23 22:58:14.792 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:58:15.356 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:15.356 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:15.582 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:15.582 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:15.794 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:15.795 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:16.067 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:16.069 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:16.280 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:16.280 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(133) - Gra zakonczona!
+2020-01-23 22:58:16.280 [JavaFX Application Thread] INFO  lab.engine.Controller.checkIfGameIsFinished(106) - Gra rozegrana. Zwycięzca: Gracz O
+2020-01-23 22:58:16.280 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:16.280 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$0(108) - Zapisywanie danych...
+2020-01-23 22:58:16.281 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$2(112) - Pobieranie danych...
+2020-01-23 22:58:17.738 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$9(206) - Gra rozpoczeta!
+2020-01-23 22:58:18.302 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:18.302 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:18.890 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:18.891 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:19.368 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:19.368 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:19.854 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:19.854 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:20.912 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:20.912 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:21.318 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:21.318 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:21.578 [JavaFX Application Thread] INFO  lab.engine.EngineImpl.getWinner(25) - Sprawdzam plansze w poszukiwaniu zwyciezcy!
+2020-01-23 22:58:21.578 [JavaFX Application Thread] INFO  lab.engine.Controller.finishGame(133) - Gra zakonczona!
+2020-01-23 22:58:21.578 [JavaFX Application Thread] INFO  lab.engine.Controller.checkIfGameIsFinished(106) - Gra rozegrana. Zwycięzca: Gracz X
+2020-01-23 22:58:21.578 [JavaFX Application Thread] INFO  lab.engine.Controller.lambda$initialize$5(172) - Ruch wykonany!
+2020-01-23 22:58:21.578 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$0(108) - Zapisywanie danych...
+2020-01-23 22:58:21.579 [pool-3-thread-1] INFO  lab.engine.Controller.lambda$checkIfGameIsFinished$2(112) - Pobieranie danych...
+2020-01-23 22:58:23.655 [pool-4-thread-1] INFO  lab.engine.Controller.lambda$null$7(183) - Pobieranie danych...

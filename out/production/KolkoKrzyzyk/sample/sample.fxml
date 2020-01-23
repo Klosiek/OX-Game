@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane minWidth="315.0" prefHeight="591.0" prefWidth="459.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+    <children>
+        <Pane layoutY="4.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="585.0" prefWidth="441.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="-20.0" AnchorPane.topAnchor="4.0">
+            <children>
+                <Button fx:id="start_button" layoutX="228.0" layoutY="15.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" prefHeight="25.0" prefWidth="110.0" text="Start!" />
+                <TextField fx:id="player_1" layoutX="14.0" layoutY="15.0" prefWidth="200.0" text="Gracz O" />
+                <TextField fx:id="player_2" layoutX="14.0" layoutY="55.0" prefWidth="200.0" text="Gracz X" />
+                <TextField fx:id="dialog_field" alignment="CENTER" editable="false" layoutX="14.0" layoutY="97.0" prefHeight="25.0" prefWidth="399.0" />
+                <GridPane fx:id="btn_grid" disable="true" layoutX="100.0" layoutY="143.0" prefHeight="206.0" prefWidth="266.0">
+                    <children>
+                        <Button fx:id="button_8" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" text="" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                        <Button fx:id="button_0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+                        <Button fx:id="button_1" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" text="" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+                        <Button fx:id="button_2" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" text="" GridPane.columnIndex="2" GridPane.rowIndex="0" />
+                        <Button fx:id="button_3" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" text="" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+                        <Button fx:id="button_4" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" text="" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                        <Button fx:id="button_5" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" text="" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+                        <Button fx:id="button_6" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" text="" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+                        <Button fx:id="button_7" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" text="" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                    </children>
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                </GridPane>
+            <Button fx:id="finish_button" layoutX="228.0" layoutY="55.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="110.0" text="Finish!" />
+                <TableView fx:id="table" layoutX="22.0" layoutY="246.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="47.0" prefWidth="60.0">
+                    <columns>
+                        <TableColumn fx:id="column0" prefWidth="50.0" text="Id" />
+                        <TableColumn fx:id="column1" prefWidth="50.0" text="Winner" />
+                        <TableColumn fx:id="column2" prefWidth="75.0" text="Player O" />
+                        <TableColumn fx:id="column3" prefWidth="75.0" text="Player X" />
+                        <TableColumn fx:id="column4" prefWidth="197" text="Datetime" />
+                    </columns>
+                </TableView>
+            <Button fx:id="clear" layoutX="387.0" layoutY="15.0" mnemonicParsing="false" text="Clear" />
+                <Pagination fx:id="pagination" layoutX="4.0" layoutY="361.0" prefHeight="214.0" prefWidth="452.0">
+                </Pagination>
+
+            </children>
+        </Pane>
+    </children>
+</AnchorPane>
