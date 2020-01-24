@@ -3,19 +3,19 @@ package lab.dao;
 import lab.engine.OXEnum;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import lab.model.Game;
-import lab.model.GameDAO;
+import lab.model.Rozgrywka;
+import lab.model.RozgrywkaDAO;
 import lab.data.DataSource;
 
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GameDAOImpl implements GameDAO {
-  private static final Logger logger = LoggerFactory.getLogger(GameDAOImpl.class);
+public class RozgrywkaDAOImpl implements RozgrywkaDAO {
+  private static final Logger logger = LoggerFactory.getLogger(RozgrywkaDAOImpl.class);
 
   @Override
-  public int saveGame(Game game) {
+  public int zapiszRozgrywke(Rozgrywka game) {
     int addedRows = 0;
     String query = "INSERT INTO game"
             + "(winner, player_O, player_X, game_time)"
@@ -42,8 +42,8 @@ public class GameDAOImpl implements GameDAO {
   }
 
   @Override
-  public List<Game> getGames(Integer startId, Integer rowNumber) {
-    List<Game> gameList = new ArrayList<>();
+  public List<Rozgrywka> pobierzRozgrywki(Integer startId, Integer rowNumber) {
+    List<Rozgrywka> gameList = new ArrayList<>();
     String query = "SELECT * FROM game ORDER BY game_time DESC"
             + (startId != null ? " OFFSET ?" : "")
             + (rowNumber != null ? " LIMIT ?" : "");
@@ -56,7 +56,7 @@ public class GameDAOImpl implements GameDAO {
         preparedStmt.setInt(startId != null ? 2 : 1, rowNumber);
         try (ResultSet rs = preparedStmt.executeQuery()) {
           while (rs.next()) {
-            gameList.add(new Game(rs.getInt("game_id"),
+            gameList.add(new Rozgrywka(rs.getInt("game_id"),
                     OXEnum.fromString(rs.getString("winner")),
                     rs.getString("player_O"),
                     rs.getString("player_X"),
@@ -71,7 +71,7 @@ public class GameDAOImpl implements GameDAO {
   }
 
   @Override
-  public void deleteGames() {
+  public void usunRozgrywki() {
     String query = "TRUNCATE TABLE game;";
     try (Connection connect = DataSource.getConnection();
          PreparedStatement preparedStmt = connect.prepareStatement(query)) {

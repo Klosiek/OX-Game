@@ -4,17 +4,17 @@ import lab.engine.OXEnum;
 
 import java.time.LocalDateTime;
 
-public class Game {
+public class Rozgrywka {
   private Integer gameId;
   private OXEnum winner;
   private String playerX;
   private String playerO;
   private LocalDateTime gameTime;
 
-  public Game() {
+  public Rozgrywka() {
   }
 
-  public Game(Integer gameId, OXEnum winner, String playerX, String playerO, LocalDateTime gameTime) {
+  public Rozgrywka(Integer gameId, OXEnum winner, String playerX, String playerO, LocalDateTime gameTime) {
     this.gameId = gameId;
     this.winner = winner;
     this.playerX = playerX;
@@ -22,7 +22,7 @@ public class Game {
     this.gameTime = gameTime;
   }
 
-  public Game(OXEnum winner, String playerX, String playerO, LocalDateTime gameTime) {
+  public Rozgrywka(OXEnum winner, String playerX, String playerO, LocalDateTime gameTime) {
     this.winner = winner;
     this.playerX = playerX;
     this.playerO = playerO;

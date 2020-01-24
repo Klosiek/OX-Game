@@ -2,8 +2,8 @@ package lab.model;
 
 import java.util.List;
 
-public interface GameDAO {
-  int saveGame(Game game);
-  List<Game> getGames(Integer startId, Integer rowNumber);
-  void deleteGames();
+public interface RozgrywkaDAO {
+  int zapiszRozgrywke(Rozgrywka game);
+  List<Rozgrywka> pobierzRozgrywki  (Integer startId, Integer rowNumber);
+  void usunRozgrywki();
 }

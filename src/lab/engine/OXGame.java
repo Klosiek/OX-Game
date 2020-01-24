@@ -4,7 +4,7 @@ import javafx.scene.control.Button;
 
 import java.util.List;
 
-public interface Engine {
+public interface OXGame {
   void setField(Button btn);
 
   OXEnum getWinner(List<Button> buttons);

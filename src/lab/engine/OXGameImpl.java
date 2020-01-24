@@ -6,8 +6,8 @@ import org.slf4j.LoggerFactory;
 
 import java.util.List;
 
-public class EngineImpl implements OXGame {
-  private static final Logger LOGGER = LoggerFactory.getLogger(EngineImpl.class);
+public class OXGameImpl implements OXGame {
+  private static final Logger LOGGER = LoggerFactory.getLogger(OXGameImpl.class);
   private OXEnum actualPlayer = OXEnum.O;
 
   @Override

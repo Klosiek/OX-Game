@@ -20,8 +20,8 @@ import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class Controller {
-  private static final Logger logger = LoggerFactory.getLogger(Controller.class);
+public class Kontroler {
+  private static final Logger logger = LoggerFactory.getLogger(Kontroler.class);
   @FXML
   public Button clear;
 
@@ -89,24 +89,24 @@ public class Controller {
 
 
 
-  private OXGameImpl engine = new OXGameImpl();
+  private OXGameImpl ruch = new OXGameImpl();
   private ObservableList<Rozgrywka> rozgrywki;
   private ExecutorService wykonawca;
   private RozgrywkaDAO rozgrywkaDAO;
 
 
-  public Controller() {
+  public Kontroler() {
   }
 
   private void checkIfGameIsFinished(List<Button> buttons) {
-    OXEnum winner = engine.getWinner(buttons);
+    OXEnum winner = ruch.getWinner(buttons);
     if (winner != OXEnum.EMPTY) {
       finishGame(buttons);
       String winnerName = winner.toString().equals("O") ? player_1.getText() : player_2.getText();
       logger.info("Gra rozegrana. Zwycięzca: " + winnerName);
       wykonawca.execute(() -> {
         logger.info("Zapisywanie danych...");
-        rozgrywkaDAO.saveGame(new Rozgrywka(winner, player_1.getText(), player_2.getText(), LocalDateTime.now()));
+        rozgrywkaDAO.zapiszRozgrywke(new Rozgrywka(winner, player_1.getText(), player_2.getText(), LocalDateTime.now()));
       });
       wykonawca.execute(() -> {
         logger.info("Pobieranie danych...");
@@ -126,7 +126,7 @@ public class Controller {
       btn.setDisable(true);
     }
     start_button.setDisable(false);
-    start_button.setText("Play again!");
+    start_button.setText("Zagraj ponownie");
     player_1.setDisable(false);
     player_2.setDisable(false);
     finish_button.setDisable(true);
@@ -167,14 +167,14 @@ public class Controller {
       btn.setText(OXEnum.EMPTY.toString());
       btn.setOnAction((event) -> {
         btn.setDisable(true);
-        engine.setField(btn);
+        ruch.setField(btn);
         checkIfGameIsFinished(buttons);
         logger.info("Ruch wykonany!");
       });
     }
 
     clear.setOnAction((event) -> {
-      rozgrywkaDAO.deleteGames();
+      rozgrywkaDAO.usunRozgrywki();
     });
 
     start_button.setOnAction((event) -> {

@@ -19,7 +19,7 @@ public class Main extends Application {
     logger.warn("Uaktualnij aplikację. Najnowsza dostępna wersja: {}", 2.0);
     Parent root = FXMLLoader.load(getClass().getResource("../sample.fxml"));
     primaryStage.setTitle("OX-Game");
-    primaryStage.setScene(new Scene(root, 458, 588));
+    primaryStage.setScene(new Scene(root, 470, 600));
     primaryStage.show();
   }
 
